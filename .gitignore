@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FlightManagement/CopilotIndices/17.12.53.23981
+/FlightManagement/bin/Debug/net8.0
+/FlightManagement/obj
+/FlightManagement.Common/bin/Debug/net8.0
+/FlightManagement.Common/obj
+/FlightManagement.Services/bin/Debug/net8.0
+/FlightManagement.Services/obj
+/FlightManagement.UnitTest/bin/Debug/net8.0
+/FlightManagement.UnitTest/obj
